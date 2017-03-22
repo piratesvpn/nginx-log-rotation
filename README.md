@@ -6,7 +6,8 @@ root@machine:~# mkdir /script
 root@machine:~# cd /script/
 #
 root@machine:~# wget https://raw.githubusercontent.com/piratesvpn/nginx-log-rotation/master/nginx_log_rotate.sh
-
+#
+chmod +x nginx_log_rotate.sh
 ### Archiving Nginx access log ###
 
 # add crontab
