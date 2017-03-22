@@ -1,9 +1,11 @@
 # nginx-log-rotation
 # pirates_vpn
 
-mkdir /script
-cd /script/
-wget https://raw.githubusercontent.com/piratesvpn/nginx-log-rotation/master/nginx_log_rotate.sh
+root@machine:~# mkdir /script
+#
+root@machine:~# cd /script/
+#
+root@machine:~# wget https://raw.githubusercontent.com/piratesvpn/nginx-log-rotation/master/nginx_log_rotate.sh
 
 ### Archiving Nginx access log ###
 
